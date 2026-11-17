@@ -1,0 +1,94 @@
+[
+  {
+    "id": "kuzu-atom",
+    "name": "Кузу Атом",
+    "price": 1650,
+    "category": "grill",
+    "emoji": "🍖"
+  },
+  {
+    "id": "berlin-doner",
+    "name": "Берлин Донер",
+    "price": 500,
+    "category": "doner",
+    "emoji": "🥙"
+  },
+  {
+    "id": "pirzola-chicken",
+    "name": "Пирзола куриная",
+    "price": 850,
+    "category": "grill",
+    "emoji": "🍗"
+  },
+  {
+    "id": "antrekot",
+    "name": "Антрекот",
+    "price": 1500,
+    "category": "grill",
+    "emoji": "🥩"
+  },
+  {
+    "id": "pirzola-sarma",
+    "name": "Пирзола сарма",
+    "price": 1450,
+    "category": "grill",
+    "emoji": "🍖"
+  },
+  {
+    "id": "sirali-kebab",
+    "name": "Сыралы кебап",
+    "price": 1250,
+    "category": "kebab",
+    "emoji": "🍢"
+  },
+  {
+    "id": "chop-shish",
+    "name": "Чоп шиш",
+    "price": 900,
+    "category": "kebab",
+    "emoji": "🍡"
+  },
+  {
+    "id": "lollipop-kebab",
+    "name": "Лолипоп кебап",
+    "price": 1350,
+    "category": "kebab",
+    "emoji": "🍖"
+  },
+  {
+    "id": "tbone",
+    "name": "Стейк «Ти-бон»",
+    "price": 1900,
+    "category": "steak",
+    "emoji": "🥩"
+  },
+  {
+    "id": "tomahawk",
+    "name": "Стейк «Томагавк»",
+    "price": null,
+    "category": "steak",
+    "emoji": "🥩",
+    "priceLabel": "300 ₽ / 100 г"
+  },
+  {
+    "id": "veggies",
+    "name": "Овощи на мангале",
+    "price": 600,
+    "category": "sides",
+    "emoji": "🥗"
+  },
+  {
+    "id": "spinach",
+    "name": "Припущенный шпинат",
+    "price": 150,
+    "category": "sides",
+    "emoji": "🥬"
+  },
+  {
+    "id": "potatoes",
+    "name": "Картофель по-деревенски",
+    "price": 150,
+    "category": "sides",
+    "emoji": "🥔"
+  }
+]
